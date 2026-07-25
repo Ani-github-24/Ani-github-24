@@ -1,22 +1,25 @@
-█████╗ ███╗   ██╗██╗██████╗ ██╗   ██╗██████╗ ██╗  ██╗ █████╗ 
+```
+ █████╗ ███╗   ██╗██╗██████╗ ██╗   ██╗██████╗ ██╗  ██╗ █████╗ 
 ██╔══██╗████╗  ██║██║██╔══██╗██║   ██║██╔══██╗██║  ██║██╔══██╗
 ███████║██╔██╗ ██║██║██████╔╝██║   ██║██║  ██║███████║███████║
 ██╔══██║██║╚██╗██║██║██╔══██╗██║   ██║██║  ██║██╔══██║██╔══██║
 ██║  ██║██║ ╚████║██║██║  ██║╚██████╔╝██████╔╝██║  ██║██║  ██║
 ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
 
-┌──────────────────────────────────────────────────────────┐
-│ ~/anirudha  $ whoami                                      │
-├──────────────────────────────────────────────────────────┤
-│  role     : B.Tech CS student, Amrita Vishwa Vidyapeetham │
-│  focus    : Cloud / DevOps / Platform Engineering         │
-│  labs     : Homelab — Linux, Docker, Prometheus, Grafana  │
-│  exp      : 3+ yrs freelance IT support, 50+ client fixes │
-└──────────────────────────────────────────────────────────┘
++------------------------------------------------------------+
+| ~/anirudha  $ whoami                                       |
++------------------------------------------------------------+
+| role   : B.Tech CS, Amrita Vishwa Vidyapeetham              |
+| focus  : Cloud / DevOps / Platform Engineering              |
+| labs   : Homelab - Linux, Docker, Prometheus, Grafana       |
+| exp    : 3+ yrs freelance IT support, 50+ client fixes      |
++------------------------------------------------------------+
 
-┌─ stack ──────────────────────────────────────────────────┐
-│  Infra   : Docker · Linux · Prometheus · Grafana          │
-│  Net     : TCP/IP · DNS/DHCP · VLANs                      │
-│  Lang    : Java · Python · TypeScript                     │
-│  Cloud   : (learning) Kubernetes · Terraform · Azure       │
-└──────────────────────────────────────────────────────────┘
++- stack ------------------------------------------------------+
+| Infra  : Docker, Linux, Prometheus, Grafana                  |
+| Net    : TCP/IP, DNS/DHCP, VLANs                             |
+| Lang   : Java, Python, TypeScript                            |
+| Cloud  : (learning) Kubernetes, Terraform, Azure              |
++------------------------------------------------------------+
+
+```
